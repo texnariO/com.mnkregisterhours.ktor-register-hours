@@ -1,8 +1,8 @@
 package com.mnkregisterhours.repository
 
-import com.mnkregisterhours.model.User
 import java.util.*
 
+/*
 class UserReposiory {
 
     private val users = mutableListOf<User>()
@@ -15,4 +15,4 @@ class UserReposiory {
 
 
 
-}
+}*/
